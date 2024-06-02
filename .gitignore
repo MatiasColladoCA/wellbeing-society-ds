@@ -60,9 +60,9 @@ data/processed/
 data/external/
 
 # Model files
-models/
-*.h5
-*.pkl
+# models/
+# *.h5
+# *.pkl
 
 # Config files
 *.env
